@@ -1,5 +1,9 @@
 # TODOPROJNAME
 
+[![Build Status](https://github.com/zarthus/TODOPROJNAME/actions/workflows/rust.yml/badge.svg)](https://github.com/zarthus/TODOPROJNAME/actions)
+[![Docs.rs](https://docs.rs/TODOPROJNAME/badge.svg)](https://docs.rs/TODOPROJNAME/latest/)
+[![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](README#license)
+
 TODO
 
 ## Installation
