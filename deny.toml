@@ -1,11 +1,14 @@
 [licenses]
-unlicensed = "deny"
+version = 2
 allow = [
     "MIT",
     "Apache-2.0",
-    "Unicode-DFS-2016"
+    "Unicode-DFS-2016",
+    "BSD-3-Clause",
+    "BSD-2-Clause",
+    "ISC",
+    "CC0-1.0",
 ]
-copyleft = "warn"
-default = "deny"
 confidence-threshold = 0.8
-exceptions = []
+exceptions = [
+]
