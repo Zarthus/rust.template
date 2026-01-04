@@ -1,3 +1,4 @@
-fn main() { // TODO
+fn main() {
+    // TODO
     println!("Hello, world!");
 }
