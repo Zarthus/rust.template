@@ -2,7 +2,7 @@
 name = "TODOPROJNAME"
 description = "TODO"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
 license = "MIT OR Apache-2.0"
 authors = [
     "Zarthus <zarthus@liefland.net>",
@@ -19,5 +19,3 @@ publish = false
 [features]
 default = [
 ]
-
-[badges]
