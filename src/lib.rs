@@ -1,4 +1,3 @@
-#![allow(non_snake_case)] // Template uses TODOPROJNAME as placeholder
 // TODO (if library)
 pub fn add(left: usize, right: usize) -> usize {
     left + right
